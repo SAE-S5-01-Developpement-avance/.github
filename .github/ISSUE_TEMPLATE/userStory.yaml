@@ -8,7 +8,7 @@ body:
     - type: textarea
       id: summary
       attributes:
-          label: User Storie
+          label: User Story
           description: As a / I want / In order to
           value: |
               **As a**
@@ -20,7 +20,7 @@ body:
     - type: textarea
       id: acceptation-test
       attributes:
-          label: Acceptation Tet
+          label: Acceptation Test
           description: Given / When / Then
           value: |
               **Given**
