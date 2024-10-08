@@ -1,4 +1,4 @@
-name: Bug repport
+name: Bug report
 description: Create a bug report to help us improve
 title: "<title>"
 labels: ["bug"]
@@ -15,9 +15,9 @@ body:
           required: true
 
     - type: textarea
-      id: step-to-reproduced
+      id: step-to-reproduce
       attributes:
-          label: How to reproduced
+          label: How to reproduce
           description: The steps to recreate this bug
           value: |
               1. Go to '...'
