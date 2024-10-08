@@ -1,7 +1,7 @@
 name: User storie
 description: Describe user storie
 title: "<title>"
-labels: ["user-storie"]
+labels: ["User Story"]
 projects: "SAE-S5-01-Developpement-avance/1"
 
 body:
