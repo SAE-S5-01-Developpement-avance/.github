@@ -26,6 +26,5 @@ body:
               **Given**
               **When**
               **Then**
-          render: markdown
       validations:
           required: true
